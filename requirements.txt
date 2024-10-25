@@ -1,0 +1,7 @@
+pillow
+opencv-python
+pytesseract
+python-dotenv
+pandas
+pyzbar
+pymongo
