@@ -8,8 +8,6 @@
 - [Usage](#usage)
 - [Environment Variables](#environment-variables)
 - [Technologies Used](#technologies-used)
-- [Screenshots](#screenshots)
-- [License](#license)
 
 ## Features
 - 📚 **Check Books Issued**: View the books that have been issued to a student.
@@ -92,22 +90,4 @@ MONGODB_URI=mongodb+srv://<username>:<password>@cluster0.mongodb.net/intellib?re
 - **MongoDB Atlas**: Database used to store student and book records.
 - **Pymongo**: Python library to interact with MongoDB.
 - **dotenv**: Used for environment variable management.
-
-## Screenshots
-
-### Main Screen
-![Main Screen](https://yourimagelink.com/main-screen.png)
-
-### Check Books Issued
-![Check Books Issued](https://yourimagelink.com/check-books.png)
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## Acknowledgments
-- **Discord**: The color scheme of the GUI is inspired by Discord's dark theme.
-- **Tkinter**: For providing a powerful library to create GUIs with Python.
 
