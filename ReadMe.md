@@ -25,7 +25,7 @@
 ### Steps
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/yourusername/Intelligent_Library_Management_System.git
+    git clone https://github.com/end-9214/Intelligent_Library_Management_System.git
     cd Intelligent_Library_Management_System
     ```
 
